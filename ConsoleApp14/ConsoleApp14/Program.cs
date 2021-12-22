@@ -12,7 +12,7 @@ namespace ConsoleApp14
                 {
                     Console.WriteLine(i + "*" + j + "=" + i * j);
                 }
-                Console.WriteLine("*****");
+                Console.WriteLine("******");
             }
 
         }
